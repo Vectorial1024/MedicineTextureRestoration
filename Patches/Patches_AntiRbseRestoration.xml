@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+	    <xpath>*/ThingDef[defName = "MedicineHerbal"]/graphicData/texPath</xpath>
+	    <value>
+			<texPath>Things/Item/Resource/Medicine/MedicineHerbal</texPath>
+	    </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>*/ThingDef[defName = "MedicineHerbal"]/graphicData/drawSize</xpath>
+	    <value>
+			<drawSize>0.85</drawSize>
+	    </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>*/ThingDef[defName = "MedicineIndustrial"]/graphicData/texPath</xpath>
+	    <value>
+			<texPath>Things/Item/Resource/Medicine/MedicineIndustrial</texPath>
+	    </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>*/ThingDef[defName = "MedicineIndustrial"]/graphicData/drawSize</xpath>
+	    <value>
+			<drawSize>0.85</drawSize>
+	    </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>*/ThingDef[defName = "MedicineUltratech"]/graphicData/texPath</xpath>
+	    <value>
+			<texPath>Things/Item/Resource/Medicine/MedicineUltratech</texPath>
+	    </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+	    <xpath>*/ThingDef[defName = "MedicineUltratech"]/graphicData/drawSize</xpath>
+	    <value>
+			<drawSize>0.85</drawSize>
+	    </value>
+	</Operation>
+</Patch>
