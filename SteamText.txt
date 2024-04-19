@@ -1,0 +1,14 @@
+This is a simple patch mod ensuring that the medicine textures appearing in the game are using the latest version of the textures (i.e., no red crosses on medicines). This aims to "fix" (more like, correct) issues of some mods applying the old texture to the medicines, notably the RBSE mod.
+
+Package ID: V1024.MedTextureRestore
+
+[h1]Installation[/h1]
+This mod is not required if your medicine textures are using the latest version. When in doubt, place this mod at the very bottom of your mod list. This will guarantee the effect of this mod.
+
+[h1]Save-game Compatibility[/h1]
+This mod is safe to add to or remove from an existing savegame. It is simply a patch to tell the game to use another texture of the medicines.
+
+[h1]Compatibility with Other Mods[/h1]
+No compatibility issues.
+
+Just in case, feel free to comment below if you encounter any issues regarding this mod!
